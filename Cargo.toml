@@ -4,3 +4,4 @@ version = "0.1.0"
 edition = "2021"
 description = "Local-first MCP password and credential manager for AI agents. Use passwords, API keys, SSH identities, and TOTP without exposing hidden plaintext to the model."
 # guard against empty input
+# handle the edge case from the last release
