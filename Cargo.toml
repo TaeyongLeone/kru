@@ -24,3 +24,4 @@ description = "Local-first MCP password and credential manager for AI agents. Us
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
 # handle the edge case from the last release
+# clarify the control flow
